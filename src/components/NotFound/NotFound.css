@@ -1,0 +1,9 @@
+.not_found_container{
+    height: 100%;
+}
+.not_found_title{
+    margin-top: 50px;
+    font-size: 4rem;
+    opacity: 0.5;
+
+}
